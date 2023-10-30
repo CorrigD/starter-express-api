@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "fcm-node": "^1.1.0"
+   
   }
 }
